@@ -15,9 +15,9 @@ The goal of the project is **not just to create a Match-3 game**, but to demonst
 This repository can be used as a **portfolio project** to showcase junior level gameplay programming skills.
 
 <p align="center">
-![2026-03-2015-13-44-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/81d7d8e3-250f-4e39-97a2-f50378605c2e)
-![2026-03-2015-12-12-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bef2a9e7-23a2-41bc-b36b-51c156e1d4ce)
-![2026-03-2015-13-59-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ad14e10c-6d40-4e48-8f88-48e88558dcb9)
+  <img src="gif/2026-03-2015-12-12-ezgif.com-video-to-gif-converter.gif" width="600"/>
+  <img src="gif/2026-03-2015-13-44-ezgif.com-video-to-gif-converter.gif" width="600"/>
+  <img src="gif/2026-03-2015-13-59-ezgif.com-video-to-gif-converter.gif" width="600"/>
 </p>
 
 ---
