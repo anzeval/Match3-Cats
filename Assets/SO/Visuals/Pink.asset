@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc592929f667d46bdb48dbec6ccc8969, type: 3}
+  m_Name: Pink
+  m_EditorClassIdentifier: Assembly-CSharp::TileVisualRegistry
+  tileType: 4
+  sprite: {fileID: -6920274672158514710, guid: 40459d556a957430abf87058c63fff49, type: 3}
+  prefab: {fileID: 1104948753804063219, guid: 622c7759b58144b6a9d830bb024420dc, type: 3}
